@@ -62,7 +62,7 @@ Top Offending IPs:
 Top Used Usernames:
 admin: 12 attempts
 testuser: 8 attempts
-...
+```
 
 ## How It Works
 
